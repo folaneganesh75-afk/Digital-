@@ -1,2 +1,2 @@
 FROM httpd 
-COPY /templatemo_564_plot_listing/ /usr/local/apache2/htdocs/
+COPY /templatemo_564_plot_listing/ /usr/local/apache2/conf/httpd.conf
